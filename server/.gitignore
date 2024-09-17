@@ -1,0 +1,23 @@
+# .gitignore for Node/Express Back-End
+
+# Dependency directory
+node_modules/
+
+# Local environment variables
+.env
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+
+.DS_Store
